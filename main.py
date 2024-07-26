@@ -1,19 +1,3 @@
-"""
-Program Name: Turtle     
-Programmer Name: Luna Gao 
-Program Date: June 17, 2023         
-Program Description: A turtle game where you try to gain points by reaching targets
-Program Input/output:
-Input: Pressing arrow keys to move the turtle
-Output: A window with a white background
-        A green turtle controlled by the player
-        A red circle target that moves to a random position when touched by the turtle
-        A red X target that moves to a random position when touched by the turtle
-        A scoring system where the player gains 1 point when the turtle touches the circle target and loses 1 point when the turtle touches the X target
-        A display showing the player's score and the rules of the game
-        A message displaying "YOU WIN" if the player reaches a score of 10 and "GAME OVER" if the player's score goes below 0
-"""
-
 # Import the turtle module for graphical visualization
 import turtle
 # Import the random module for generating random positions
